@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631740573405",
+    "project_id": "fir-sharephotos",
+    "storage_bucket": "fir-sharephotos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631740573405:android:db43790888133d18119d34",
+        "android_client_info": {
+          "package_name": "com.rumeysaozer.firebasesharephoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631740573405-2i0p1okn0ncchf01o7rt83sug1s91bcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6ziiTBIVymRxzxMMr0VEheOYFKN2DP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631740573405-2i0p1okn0ncchf01o7rt83sug1s91bcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
